@@ -30,4 +30,4 @@ class Graph{
 	}
 }
 
-let graph = new Graph();
+let graph = new Graph();// constructor to create a new object
